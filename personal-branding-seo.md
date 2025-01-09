@@ -21,6 +21,7 @@ SEO for personal branding ensures that your brand’s online presence is easily 
 + Optimizing your brand’s website and content makes it more appealing and user-friendly, building trust and engagement. 
 ## 5 Key Features of Personal Branding SEO
 SEO personal branding defines your unique identity, builds trust with your audience, and establishes credibility. These five key features ensure consistent messaging, highlighting your expertise, and showcase the valuable insights you bring, enabling you to stand out and achieve professional goals:  
+![5 Key Features of Personal Branding SEO](https://github.com/geekmasterdm/digital-marketing/blob/main/image%20(15).png?raw=true)
 ### 1. Authenticity
 Authenticity is the foundation of personal branding SEO, as it reflects what your brand stands for. Being authentic means embracing your unique qualities, expertise, and values showcasing them honestly to your target audience. People will naturally be drawn to your brand if you are honest because it builds trust and reliability. 
 
@@ -43,6 +44,7 @@ A clear and compelling value proposition is important for personal branding SEO.
 This begins by identifying your core strengths, expertise, and the specific problems that you solve for your target audience. High-quality content, such as blogs, videos, or case studies should demonstrate your brand’s value proposition in action. A strong value proposition attracts your ideal audience and will make them understand the distinct benefits of engaging with your brand.
 ## Top 5 Strategies for SEO Personal Branding
 Personal branding SEO has become an essential part of establishing a strong professional identity and standing out in a competitive market. Through different strategies, personal branding SEO can help in connecting with relevant audiences, and build a strong online presence. Here are the top five strategies that can create an impactful personal brand which will leave a lasting impression. 
+![Top 5 Strategies for SEO Personal Branding](https://github.com/geekmasterdm/digital-marketing/blob/main/image%20(16).png?raw=true)
 ### 1. Keyword Research
 Keyword research is important in personal branding SEO because it helps in identifying the specific terms and phrases that your target audience is using. By understanding these keywords you can optimize your brand’s content like websites, blog posts, and social media posts. 
 
@@ -52,7 +54,7 @@ Website optimization in personal branding SEO ensures that brand’s your websit
 ### 3. Perfect You Linking Strategy
 Perfecting your linking strategy is essential for strengthening your personal branding SEO strategy. This involves building high-quality backlinks from reputable sources such as guest posts. Additionally, internal linking within your brand’s website helps guide visitors to key pages, improving navigation and user engagement.
 ### 4. Make Video Content
-Video content is a powerful personal branding SEO strategy. Optimizing video titles, descriptions, and tags with relevant keywords ensures they rank well on search engines and platforms like YouTube. By sharing engaging video content, you can effectively build trust with your target audience and strengthen your personal brand’s presence.
+Video content is a powerful personal branding SEO strategy. Optimizing video titles, descriptions, and tags with relevant keywords ensures they rank well on search engines and platforms like [YouTube](https://www.youtube.com/). By sharing engaging video content, you can effectively build trust with your target audience and strengthen your personal brand’s presence.
 ### 5. Enhance Your Social Media
 Enhancing your social media presence is a vital strategy of personal branding SEO. It amplifies your reach and engagement with your target audience. A strong and active social media presence of your brand not only drives traffic to your online platforms but also builds trust and credibility with your audience.
 ## Boost Your Personal Branding through SEO with Geek Master!
